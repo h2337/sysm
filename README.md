@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/h2337/file-hosting/blob/8e69dc688584288ea170ece7aee96b879e46c27e/sysm.png?raw=true">
+<img align="right" src="https://raw.githubusercontent.com/h2337/sysm/refs/heads/master/logo.svg">
 
 # sysm
 
