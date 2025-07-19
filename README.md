@@ -30,7 +30,7 @@ sudo apt install libsfml-dev
 
 Clone, build & install:
 ```
-git clone https://github.com/h2337/sysm && cd sysm && make install
+git clone https://github.com/h2337/sysm --depth=1 && cd sysm && make install
 ```
 
 Run:
