@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/h2337/sysm/refs/heads/master/logo.svg" width="400" height="400">
+<img align="right" src="https://raw.githubusercontent.com/h2337/sysm/refs/heads/master/logo.svg" width="250" height="250">
 
 # sysm
 
