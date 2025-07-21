@@ -4,7 +4,7 @@
 
   <!-- Terminal/bracket symbols -->
   <text x="25" y="110" font-family="monospace" font-size="40" fill="#00ff41" font-weight="bold">[</text>
-  <text x="165" y="110" font-family="monospace" font-size="40" fill="#00ff41" font-weight="bold">]</text>
+  <text x="150" y="110" font-family="monospace" font-size="40" fill="#00ff41" font-weight="bold">]</text>
 
   <!-- Sound wave visualization -->
   <g transform="translate(100, 100)">
